@@ -21,18 +21,16 @@ Instructions to setup and getting Anga running on your machine:
 
 ## Screenshots
 
-![welcome Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg) ![Login activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/loginActivity.jpg)
-
-![SignUp Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/signUpActivity.jpg)
-![Anga Subscription Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/angaSub.jpg)
-![Main Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/mainActivity.jpg)
-
 <p float="left">
-  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="100" />
-  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="100" /> 
-  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/loginActivity.jpg" width="250" /> 
+  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/signUpActivity.jpg" width="250" />
 </p>
 
+<p float="left">
+	<img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/angaSub.jpg" width="250" />
+	<img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/mainActivity.jpg" width="250" />
+</p>
 
 ## Technologies Used
 
