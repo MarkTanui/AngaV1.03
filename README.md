@@ -21,7 +21,11 @@ Instructions to setup and getting Anga running on your machine:
 
 ## Screenshots
 
-
+![welcome Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg)
+![Login activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/loginActivity.jpg)
+![SignUp Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/signUpActivity.jpg)
+![Anga Subscription Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/angaSub.jpg)
+![Main Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/mainActivity.jpg)
 
 ## Technologies Used
 
