@@ -27,6 +27,13 @@ Instructions to setup and getting Anga running on your machine:
 ![Anga Subscription Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/angaSub.jpg)
 ![Main Activity](https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/mainActivity.jpg)
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="100" />
+  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="100" /> 
+  <img src="https://raw.githubusercontent.com/MarkTanui/AngaV1.03/main/screenshots/welcomeActivity.jpg" width="100" />
+</p>
+
+
 ## Technologies Used
 
 List out the technologies you used to build your Android app. This can include things like:
@@ -42,6 +49,7 @@ List out the technologies you used to build your Android app. This can include t
 If you would like toc ontribute to my small project, here's what you could do:
 
 * Fork the repository
+* Make cool changes
 * Creating a pull request.
 
 ## License
